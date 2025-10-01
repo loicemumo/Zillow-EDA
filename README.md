@@ -25,7 +25,7 @@
 
 <br>
 
-<a href="./CASE_STUDY.md" style="display:inline-block; background-color:black; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">
+<a href="https://www.loicemumo.com/projects/zillow-eda/" style="display:inline-block; background-color:black; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">
   Explore Full Case Study
 </a>
 
