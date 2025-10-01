@@ -15,7 +15,8 @@
 
 - **Tools:**  
   - **Python & Pandas:** API extraction, CSV export  
-  - **Power BI (Power Query & DAX):** Data cleaning, KPI calculations, dashboard visuals  
+  - **Power BI (Power Query & DAX):** Data cleaning & transformation, KPI calculations, dashboard visuals
+  - **VS Code:** Development environment 
 
 - **What Next:**  
   - Automate **daily data loading** for continuous snapshots  
@@ -24,8 +25,8 @@
 
 <br>
 
-<a href="./CASE_STUDY.md">
-  <img src="https://img.shields.io/badge/📖%20Explore%20Full%20Case%20Study-blue?style=for-the-badge"/>
+<a href="./CASE_STUDY.md" style="display:inline-block; background-color:black; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">
+  Explore Full Case Study
 </a>
 
 </div>
